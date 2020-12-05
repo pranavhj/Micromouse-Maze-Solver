@@ -1,0 +1,15 @@
+-I/usr/include/c++/5
+-I/usr/include/x86_64-linux-gnu/c++/5
+-I/usr/include/c++/5/backward
+-I/usr/lib/gcc/x86_64-linux-gnu/5/include
+-I/usr/local/include
+-I/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed
+-I/usr/include/x86_64-linux-gnu
+-I/usr/include
+-I/home/pranav/Intro_Robot_Prog/Final_Project/FInal_Project/final_project_group3/Final_Project
+-I/home/pranav/Intro_Robot_Prog/Final_Project/FInal_Project/final_project_group3/Final_Project/src/LandBasedRobot
+-I/home/pranav/Intro_Robot_Prog/Final_Project/FInal_Project/final_project_group3/Final_Project/src/LandBasedTracked
+-I/home/pranav/Intro_Robot_Prog/Final_Project/FInal_Project/final_project_group3/Final_Project/src/LandBasedWheeled
+-I/home/pranav/Intro_Robot_Prog/Final_Project/FInal_Project/final_project_group3/Final_Project/src/Maze
+-I/home/pranav/Intro_Robot_Prog/Final_Project/FInal_Project/final_project_group3/Final_Project/src/Algo
+-I/home/pranav/Intro_Robot_Prog/Final_Project/FInal_Project/final_project_group3/Final_Project/src/API

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="/home/pranav/Intro_Robot_Prog/Final_Project/FInal_Project/final_project_group3/final_project_group3.workspace">
+  <int Value="0" Name="m_selectedTab"/>
+  <wxString Value="/home/pranav/Intro_Robot_Prog/Final_Project/FInal_Project/final_project_group3/final_project_group3.workspace" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="/home/pranav/Intro_Robot_Prog/Final_Project/FInal_Project/final_project_group3/Final_Project/src/Algo/Algo.cpp" Name="FileName"/>
+      <int Value="75" Name="FirstVisibleLine"/>
+      <int Value="70" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/pranav/Intro_Robot_Prog/Final_Project/FInal_Project/final_project_group3/Final_Project/src/Algo/Algo.h" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="17" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/pranav/Intro_Robot_Prog/Final_Project/FInal_Project/final_project_group3/Final_Project/src/LandBasedTracked/LandBasedTracked.h" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="3" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/pranav/Intro_Robot_Prog/Final_Project/FInal_Project/final_project_group3/Final_Project/src/LandBasedWheeled/LandBasedWheeled.h" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="2" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/pranav/Intro_Robot_Prog/Final_Project/FInal_Project/final_project_group3/Final_Project/main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="3" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/pranav/Intro_Robot_Prog/Final_Project/FInal_Project/final_project_group3/Final_Project/src/Maze/Maze.cpp" Name="FileName"/>
+      <int Value="24" Name="FirstVisibleLine"/>
+      <int Value="30" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/pranav/Intro_Robot_Prog/Final_Project/FInal_Project/final_project_group3/Final_Project/src/API/API.h" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="18" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/pranav/Intro_Robot_Prog/Final_Project/FInal_Project/final_project_group3/Final_Project/src/API/API.cpp" Name="FileName"/>
+      <int Value="45" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/pranav/Intro_Robot_Prog/Final_Project/FInal_Project/final_project_group3/Final_Project/src/Maze/Maze.h" Name="FileName"/>
+      <int Value="2" Name="FirstVisibleLine"/>
+      <int Value="25" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+  <wxString Value="*.c;*.cpp;*.cxx;*.cc;*.h;*.hpp;*.inc;*.mm;*.m;*.xrc;*.plist;*.txt" Name="m_findInFilesMask"/>
+</Session>
